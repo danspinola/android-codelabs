@@ -1,0 +1,1 @@
+These are simple projects I developed following the instructions of each codelab in order to learn Android/Kotlin.
