@@ -10,4 +10,4 @@ What I learnt:
 
 
 
-![scrcpy_KLJD5h1URC](C:\Users\danie\Documents\GitHub\android\android-codelabs\Birthday Card\scrcpy_KLJD5h1URC.png)
+![scrcpy_KLJD5h1URC](.\scrcpy_KLJD5h1URC.png)

@@ -14,4 +14,4 @@ What I learnt:
 
 
 
-![TZgviz2HnD](C:\Users\danie\Documents\GitHub\android\android-codelabs\DiceRoll\TZgviz2HnD.gif)
+![TZgviz2HnD](.\TZgviz2HnD.gif)
